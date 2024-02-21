@@ -3,12 +3,12 @@
 This is a set of Jupyter Notebooks for workshop for Vanderbilt university.
 
 ## How to run the notebooks
-The workshop can be run online in [WholeTale](https://wholetale.org/) and [Google Colab](https://colab.google/). This is a convenient way, since no installation is needed.
+The workshop can be run online in [WholeTale](https://wholetale.org/) and [Google Colab](https://colab.research.google.com). This is a convenient way, since no installation is needed.
 
 #### WholeTale
 WholeTale is a scalable, open source, web-based platform for reproducible research.
 
-1. Go to https://dashboard.wholetale.org/run/[TODO]
+1. Go to https://dashboard.wholetale.org/run/65d653d5e15e7a4ab5292290
 2. Log in (there are different options)
 3. Run Tale (blue button at the top right)
 4. Confirm Copy and Run Tale
