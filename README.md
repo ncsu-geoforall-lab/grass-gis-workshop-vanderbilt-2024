@@ -18,16 +18,16 @@ WholeTale is a scalable, open source, web-based platform for reproducible resear
 #### Google Colab
 
 In Colab:
-1. File-> Open notebook
-2. Select Github
-3. Paste https://github.com/ncsu-geoforall-lab/grass-gis-workshop-vanderbilt-2024/blob/main/colab_notebook.ipynb
+1. Download [prepared notebook](https://github.com/ncsu-geoforall-lab/grass-gis-workshop-vanderbilt-2024/blob/main/colab_notebook.ipynb)
+2. Open [Colab](https://colab.research.google.com)
+3. File -> Upload notebook
+4. Upload downloaded notebook
 
-In Google Colab we don't have pre-installed the software needed, so go ahead and execute the first part to install it. Also, in order to avoid repeating the installation, we merged all notebooks into one.
+In Google Colab we don't have pre-installed the software needed, so go ahead and execute the first cell to install it. Also, in order to avoid repeating the installation, we merged all notebooks into one.
 
 ## Authors
 
 * Anna Petrasova, NCSU Center for Geospatial Analytics
-* Caitlin Haedrich, NCSU Center for Geospatial Analytics
 * Vaclav Petras, NCSU Center for Geospatial Analytics
 
 ## License
