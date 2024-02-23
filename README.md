@@ -26,10 +26,20 @@ In Colab:
 In Google Colab we don't have pre-installed the software needed, so go ahead and execute the first cell to install it. Also, in order to avoid repeating the installation, we merged all notebooks into one.
 
 ## Authors
+<img src="img/Anna_Petrasova.jpg" title="Anna Petrasova" width=150>
+<img src="img/petras_vaclav_3.jpg" title="Vaclav Petras" width=150>
+
 
 * Anna Petrasova, NCSU Center for Geospatial Analytics
 * Vaclav Petras, NCSU Center for Geospatial Analytics
 
+<img src="img/ncsu_cga.png" title="Center for Geospatial Analytics at NC State" width=400>
+
 ## License
 
 This material is dual licensed under GNU FDL 1.3 and CC BY-SA 4.0.
+
+## Acknowledgement
+This workshop was developed and delivered with the support of the U.S. National Science Foundation, award [2303651](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303651).
+
+<img src="img/NSF_logo.png" title="NSF" width=150>
