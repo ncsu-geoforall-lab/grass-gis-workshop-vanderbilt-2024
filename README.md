@@ -26,9 +26,10 @@ In Colab:
 In Google Colab we don't have pre-installed the software needed, so go ahead and execute the first cell to install it. Also, in order to avoid repeating the installation, we merged all notebooks into one.
 
 ## Authors
+<p float="left">
 <img src="img/Anna_Petrasova.jpg" title="Anna Petrasova" width=150>
 <img src="img/petras_vaclav_3.jpg" title="Vaclav Petras" width=150>
-
+</p>
 
 * Anna Petrasova, NCSU Center for Geospatial Analytics
 * Vaclav Petras, NCSU Center for Geospatial Analytics
